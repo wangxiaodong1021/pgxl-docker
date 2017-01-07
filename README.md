@@ -13,7 +13,7 @@ $ pip install fig
 ```
 ### 1. Building
 ```
-$ git clone https://github.com/postmind-net/pgxl-docker.git
+$ git clone https://github.com/wangxiaodong1021/pgxl-docker.git
 ```
 Building the container:
 ```
